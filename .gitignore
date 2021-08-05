@@ -1,5 +1,5 @@
 *.log
-/.DS_Stroe/
+/.DS_Store/
 /devCluster/__pycache__/
 /devCluster/scalaws/project/
 /devCluster/scalaws/target/

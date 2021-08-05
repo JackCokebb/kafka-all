@@ -1,6 +1,6 @@
 *.log
-.DS_Stroe
-./**/__pycache__
-./devCluster/scalaws/project
-./devCluster/scalaws/target
+/.DS_Stroe
+/devCluster/__pycache__/
+/devCluster/scalaws/project/
+/devCluster/scalaws/target/
 
